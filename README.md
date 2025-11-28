@@ -181,7 +181,7 @@ This assignment demonstrates:
 
 ## 👥 Contributors
 
-[Your Name]
+[D'vock Tyronne Akoi]
 
 ---
 
@@ -194,3 +194,4 @@ This project is submitted as part of the AI Agents course assignment.
 **Submission**: GitHub Repository - https://github.com/Akoi100/AIweek8  
 **Date**: November 28, 2025  
 **Course**: AI Agents
+
